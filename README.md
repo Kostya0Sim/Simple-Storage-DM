@@ -1,2 +1,2 @@
-# Simple-Storage-DM
-The GUI retexture for Simple Storage mod.
+# ![logo](https://github.com/Kostya0Sim/Simple-Storage-DM/blob/main/pack.png) Simple Storage DM
+This __resource pack__ changes the appearance of the [Simple Storage](https://www.curseforge.com/minecraft/mc-mods/ezstorage-new) mod's GUI to the <span style="color: #34495e;">darker </span> and <span style="color: #ba372a;">less saturated</span> <span style="color: #e03e2d;">tones </span> like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) __resource pack__.
